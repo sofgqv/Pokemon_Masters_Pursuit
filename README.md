@@ -19,7 +19,7 @@
 
 | **ID**   | **Descripción**                                                                                                                                                           |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| RF011    | El sistema debe incluir una sección de ayuda accesible desde el menú principal, que proporcione respuestas a preguntas frecuentes.                                       |
+| RF011    | El sistema debe incluir una sección de ayuda accesible desde el menú principal y entorno de juego que ayude al usuario a mejorar su experiencia.                           |
 | RF012    | El sistema debe disponer de un tutorial que guíe al usuario en las acciones básicas del juego, como teletransportación, interacción con Pokémon, y lanzamiento de Pokébolas.|
 
 **Tabla:** Requerimientos Funcionales - Nice to Have
