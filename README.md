@@ -19,7 +19,7 @@
 
 | **ID**   | **Descripción**                                                                                                                                                           |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| RF011    | El sistema debe incluir una sección de ayuda accesible desde el menú principal y entorno de juego que ayude al usuario a mejorar su experiencia.                           |
+| RF011    | El sistema debe incluir una sección de ayuda y tutorial accesible desde el menú principal y entorno de juego que ayude al usuario a mejorar su experiencia.               |
 | RF012    | El sistema debe disponer de un tutorial que guíe al usuario en las acciones básicas del juego, como teletransportación, interacción con Pokémon, y lanzamiento de Pokébolas.|
 
 **Tabla:** Requerimientos Funcionales - Nice to Have
@@ -38,9 +38,9 @@
 | **ID**   | **Descripción**                                                                                                                                                           |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | RNF005   | La interfaz debe ser intuitiva, con menús y opciones diseñadas específicamente para VR, permitiendo fácil navegación.                                                     |
-| RNF006   | La ambientación gráfica debe adaptarse al entorno (día, tarde, noche) con cambios en iluminación y efectos de sombra para mejorar la inmersión.                         |
-| RNF007   | Las cartas informativas de los Pokémon deben tener texturas de alta calidad y tamaño legible en el dispositivo Meta Quest 2.                                             |
-| RNF008   | Las escenas de ayuda y tutorial deben presentar la información de manera concisa, resaltando solo elementos clave para evitar sobrecarga de información.                |
+| RNF006   | La ambientación gráfica debe adaptarse al entorno (día, tarde, noche) con cambios en iluminación y efectos de sombra para mejorar la inmersión.                           |
+| RNF007   | Los ambientes y las cartas informativas de los Pokémon deben tener texturas de alta calidad, y estas última tamaño legible en el dispositivo Meta Quest 2.                |
+| RNF008   | Las escenas de ayuda y tutorial deben presentar la información de manera concisa, resaltando solo elementos clave para evitar sobrecarga de información.                  |
 
 **Tabla:** Requerimientos No Funcionales - Nice to Have
 
