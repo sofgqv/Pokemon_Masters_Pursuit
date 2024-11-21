@@ -14,6 +14,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BosqueTarde.unity
     guid: fe9e3eed461be794991c8f3479593b5d
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen_Dia.unity
+    guid: 4a3413525dbcb784c9339374fed6d6b4
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen_Tarde.unity
+    guid: 53918682bb5a3604bb1cd197354cd670
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen_Noche.unity
+    guid: fe828f68ce3643647b74d749ac169aec
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 454b2d479bea30e4f86f7ec4e15b91f2, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e9a4c705ca3bcc64bac2910f93e68504, type: 2}
