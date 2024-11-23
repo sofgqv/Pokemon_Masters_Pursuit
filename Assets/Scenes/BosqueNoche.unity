@@ -1015,7 +1015,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TriggerObject: {fileID: 1198657274}
-  loadingScene: LoadingScene_Tarde
+  loadingScene: LoadingScreen_Tarde
 --- !u!20 &958349813 stripped
 Camera:
   m_CorrespondingSourceObject: {fileID: 2015248, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
@@ -2073,7 +2073,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2004049114}
   - component: {fileID: 2004049116}
-  - component: {fileID: 2004049115}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -2096,14 +2095,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 895695226}
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
---- !u!81 &2004049115
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2004049113}
-  m_Enabled: 1
 --- !u!20 &2004049116
 Camera:
   m_ObjectHideFlags: 0
