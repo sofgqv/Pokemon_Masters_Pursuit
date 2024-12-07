@@ -13,7 +13,7 @@ public class NextSceneFromLoading : MonoBehaviour
 
     private IEnumerator WaitAndLoadScene()
     {
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(5f);
         yield return StartCoroutine(LoadSceneAsync());
     }
 

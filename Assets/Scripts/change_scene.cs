@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class CombinedTouchAndScoreHandler : MonoBehaviour
 {
     public string sceneName;      // Name of the scene to load
-    public string objectType;     // Type of object to track (e.g., "abra", "pikachu")
+    public string objectType;// Type of object to track (e.g., "abra", "pikachu")
 
     void OnTriggerEnter(Collider other)
     {
