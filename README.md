@@ -59,3 +59,26 @@
 | Entrega 04 (70%)        | Optimización de los patrones de movimiento de Pokémon en la escena de captura y mejoras en la interfaz visual. Se incluye el diseño del entorno de juego con consideraciones de seguridad VR.                                                                                  | RF006 RNF002 RNF003 RNF007             | Completado      |
 | Entrega 05 (100%)       | Implementación de las cartas de información de Pokémon capturados y mejora de la sección de ayuda y tutorial para una experiencia de usuario óptima.                                                                                                                           | RF008 RF011 RF012 RNF008               | Completado      |
 
+## Despliegue e instalación
+
+Primero, descargue el proyecto con el botón “Download ZIP”.
+
+Se verá que la descarga ha iniciado.
+
+Una vez finalizada, vaya a la carpeta donde lo descargó.
+
+Descomprima el archivo ZIP y obtendrá la carpeta descomprimida.
+
+Ingrese a Unity Hub, seleccione “Add” y, dentro de esta opción, elija “Add project from disk”.
+
+Busque la carpeta descomprimida anteriormente y selecciónela.
+
+Acepte la descarga de cualquier paquete y aplicación necesarios para que el proyecto se instale correctamente. Verá que Unity instala los paquetes, dependencias y demás.
+
+Luego de completar este proceso, podrá ver el proyecto en Unity. Ingrese a la carpeta “Scenes” dentro de “Assets”.
+
+Seleccione la escena “0_MainMenu”, que es la que inicia el proyecto.
+
+¡Con esto, ya está listo! Presione el botón de “Play” y luego el de “Game” para obtener un pequeño preview. ¡Disfrute!
+
+
