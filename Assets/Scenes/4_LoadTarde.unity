@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.31615135, g: 0.08181482, b: 0.067675546, a: 1}
+  m_IndirectSpecularColor: {r: 0.31599802, g: 0.08192545, b: 0.06836382, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -203,7 +203,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7f05a2fd2c169d4a91d4b196181d236, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: 4_BosqueTarde
+  nextScene: 4_Tutorial1
 --- !u!1 &746402786
 GameObject:
   m_ObjectHideFlags: 0
