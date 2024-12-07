@@ -61,24 +61,44 @@
 
 ## Despliegue e instalación
 
-Primero, descargue el proyecto con el botón “Download ZIP”.
+### Primero, descargue el proyecto con el botón “Download ZIP”.
 
-Se verá que la descarga ha iniciado.
+![Screenshot of the app](imagenes/1.png)
 
-Una vez finalizada, vaya a la carpeta donde lo descargó.
+### Se verá que la descarga ha iniciado.
 
-Descomprima el archivo ZIP y obtendrá la carpeta descomprimida.
+![Screenshot of the app](imagenes/2.png)
 
-Ingrese a Unity Hub, seleccione “Add” y, dentro de esta opción, elija “Add project from disk”.
+### Una vez finalizada, vaya a la carpeta donde lo descargó.
 
-Busque la carpeta descomprimida anteriormente y selecciónela.
+![Screenshot of the app](imagenes/3.png)
 
-Acepte la descarga de cualquier paquete y aplicación necesarios para que el proyecto se instale correctamente. Verá que Unity instala los paquetes, dependencias y demás.
+### Descomprima el archivo ZIP y obtendrá la carpeta descomprimida.
 
-Luego de completar este proceso, podrá ver el proyecto en Unity. Ingrese a la carpeta “Scenes” dentro de “Assets”.
+![Screenshot of the app](imagenes/4.png)
 
-Seleccione la escena “0_MainMenu”, que es la que inicia el proyecto.
+### Ingrese a Unity Hub, seleccione “Add” y, dentro de esta opción, elija “Add project from disk”.
 
-¡Con esto, ya está listo! Presione el botón de “Play” y luego el de “Game” para obtener un pequeño preview. ¡Disfrute!
+![Screenshot of the app](imagenes/5.png)
+
+### Busque la carpeta descomprimida anteriormente y selecciónela.
+
+![Screenshot of the app](imagenes/4.png)
+
+### Acepte la descarga de cualquier paquete y aplicación necesarios para que el proyecto se instale correctamente. Verá que Unity instala los paquetes, dependencias y demás.
+
+![Screenshot of the app](imagenes/6.png)
+
+### Luego de completar este proceso, podrá ver el proyecto en Unity. Ingrese a la carpeta “Scenes” dentro de “Assets”.
+
+![Screenshot of the app](imagenes/7.png)
+
+### Seleccione la escena “0_MainMenu”, que es la que inicia el proyecto.
+
+![Screenshot of the app](imagenes/8.png)
+
+### ¡Con esto, ya está listo! Presione el botón de “Play” y luego el de “Game” para obtener un pequeño preview. ¡Disfrute!
+
+![Screenshot of the app](imagenes/9.png)
 
 
