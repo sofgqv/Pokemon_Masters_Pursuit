@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #386 Deoxys
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a19228e0896593ff5ee954259e30e2a3d8ffd972758f8dae0a82321e96f5a53e
+size 245

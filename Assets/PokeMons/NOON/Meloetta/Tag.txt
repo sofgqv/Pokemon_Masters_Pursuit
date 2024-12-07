@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #648 Meloetta
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6efb6c92f416ac9140734ec8059e71228eee914b8467deefcf5364fcd9655120
+size 247

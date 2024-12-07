@@ -1,14 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!134 &13400000
-PhysicMaterial:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: New Physic Material
-  dynamicFriction: 0.6
-  staticFriction: 0.6
-  bounciness: 0.4
-  frictionCombine: 0
-  bounceCombine: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:84ffc2bb34c1406139523c6c6482731da1ef45195efc49315856488fba3781b2
+size 338

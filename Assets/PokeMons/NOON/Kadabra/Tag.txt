@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #064 Kadabra
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4da226c2efad59f47acde53114a06a70aaa04fd42cbd25a5115cfcecfd4217bb
+size 246

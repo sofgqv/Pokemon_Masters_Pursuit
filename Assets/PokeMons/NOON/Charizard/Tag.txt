@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #006 Charizard
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ce9daea6d53ad2732fcd2e3130590ef1635d4f81d1e1adad0c0a9bfcf6537c
+size 248

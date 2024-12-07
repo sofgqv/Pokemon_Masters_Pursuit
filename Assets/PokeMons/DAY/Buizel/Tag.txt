@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #418 Buizel
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d69f1fbc0fdaa384caaf3390aae199173e6dc088c18c3e86f47f07d6f4b6db8
+size 245

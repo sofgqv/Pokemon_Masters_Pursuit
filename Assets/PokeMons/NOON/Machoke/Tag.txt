@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #067 Machoke
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0896244bfa0e832b8ea117ec57536377f2e364ed2360177f71c014e95b4fa7e5
+size 246

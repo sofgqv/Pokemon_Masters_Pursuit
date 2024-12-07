@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #107 Hitmonchan
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fefe6001ee8172ca1196d24a8d5b2076937150e846d65a0f4ae47122b0887410
+size 249

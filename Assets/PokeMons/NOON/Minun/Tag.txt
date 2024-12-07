@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #312 Minun
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7badc0548cb2454f041b7a2ad84553cfacb1961fd5e49c5fbe60239425aad82
+size 244

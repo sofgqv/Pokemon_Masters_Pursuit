@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #010 Caterpie
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:51b5b8edb55fc5ddd54cfb27b368aeef66543ab072f839c4982d83b83a47191e
+size 247

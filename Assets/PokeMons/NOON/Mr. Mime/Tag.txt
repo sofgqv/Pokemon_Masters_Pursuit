@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #122 Mr. Mime
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba0995fe49deaf6461c4490538c7ce5140bdfc0206af4cd4f7a0e5d750672df5
+size 247

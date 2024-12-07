@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #155 Cyndaquil
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:af5cf6ba1a9cc02cff3e67862a94f0b0835ebd68668bb2b5122c29ff6129ee96
+size 248

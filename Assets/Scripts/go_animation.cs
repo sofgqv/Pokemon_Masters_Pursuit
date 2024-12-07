@@ -1,21 +1,3 @@
-using UnityEngine;
-using UnityEngine.SceneManagement;
-
-public class SceneChangeOnTrigger : MonoBehaviour
-{
-    public string sceneName;  // Name of the scene to load
-    public string objectType; // Type of object to pass (e.g., "Frog", "Rabbit")
-
-    void OnTriggerEnter(Collider other)
-    {
-        // Check if the object has the "pokeball" or "Player" tag
-        if (other.CompareTag("pokeball") || other.CompareTag("Player"))
-        {
-            // Save the object type to PlayerPrefs (this could be frog or rabbit)
-            PlayerPrefs.SetString("ObjectClicked", objectType);
-
-            // Load the next scene
-            SceneManager.LoadScene(sceneName);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b30601de9dfbbec4e929bde8687c184e31edd43dee9cd4c0617666f12a677b5
+size 689

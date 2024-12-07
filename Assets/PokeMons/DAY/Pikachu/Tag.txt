@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #025 Pikachu
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4c48c726bdeb2167c8eea83fe6c643af0015edad496a3b957797b6681e7c62e
+size 246

@@ -1,8 +1,3 @@
-Thanks for purchasing the asset pack!
-Content is separated into Unity package files based on target rendering pipeline.
-
-IF YOU'RE USING BUILT-IN RENDERING PIPELINE (BiRP) import the _BiRP Content - Fantasy Worlds - Old Forest.unitypackage
-file by double clicking it in the editor and hitting the Import button.
-
-IF YOU'RE USING UNIVERSAL RENDERING PIPELINE (URP) import the _URP Content - Fantasy Worlds - Old Forest.unitypackage
-file by double clicking it in the editor and hitting the Import button.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9afabfb306aa584386ee90703b83a25cd107bb8d72548d9ca3497e61011cbc60
+size 502

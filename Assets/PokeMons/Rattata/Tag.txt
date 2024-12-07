@@ -1,6 +1,3 @@
-﻿Game: Pokémon X/Y
-Subject: #019 Rattata
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: TheBen, Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee58ff1b4411039ba921ba07ee5f5d3465367f883166f3b8dd30b2b9ea844c90
+size 257

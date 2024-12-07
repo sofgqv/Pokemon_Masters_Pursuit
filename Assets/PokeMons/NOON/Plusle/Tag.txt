@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #311 Plusle
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aac405b9973a73e0b15bbe92cdb8ca09f7eaf3fe84b0df849e4e3fda574ce35
+size 245

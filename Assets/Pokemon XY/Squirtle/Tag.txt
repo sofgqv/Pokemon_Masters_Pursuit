@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #007 Squirtle
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:699e34813371490904b09ea6ad5afbe975491a622cdece26bb3825c1443fc5a8
+size 247

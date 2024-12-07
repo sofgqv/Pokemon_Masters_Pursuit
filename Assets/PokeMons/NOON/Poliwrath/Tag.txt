@@ -1,6 +1,3 @@
-﻿Game: Pokémon X/Y
-Subject: #062 Poliwrath
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: TheBen, Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:957fac7dead7d8fd5924e5dddf7ea3c2cc5879ba55baf2cc7a294e98cfa766b6
+size 259

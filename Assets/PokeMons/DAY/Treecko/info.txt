@@ -1,5 +1,3 @@
-Treecko
-Game: Pokemon X and Y
-© 2013 Nintendo / Game Freak
-
-Ripped by Mystie from The VG Resource, thanks to Random Talking Bush's model importer/exporter. Please credit her if used.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a08be3ac420ec54f72ace5d25886ef121da6bdebffd97d3fec43fc35c9a3e570
+size 182

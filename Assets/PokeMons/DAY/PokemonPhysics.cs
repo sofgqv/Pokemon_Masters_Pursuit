@@ -1,24 +1,3 @@
-using UnityEngine;
-
-public class PokemonPhysics : MonoBehaviour
-{
-    public float moveSpeed = 5f;
-    public float jumpForce = 300f;
-    private Rigidbody rb;
-
-    void Start()
-    {
-        rb = GetComponent<Rigidbody>();
-    }
-
-    void FixedUpdate()
-    {
-        rb.AddForce(Physics.gravity * rb.mass * 4); // Aumentar la gravedad
-    }
-
-
-    private bool IsGrounded()
-    {
-        return Physics.Raycast(transform.position, Vector3.down, 1.1f);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3a63b5284dc81b78a66e6062c7c705249eb9b3e9388c3173906a333618d6bc6
+size 484

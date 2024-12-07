@@ -1,26 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class throwable : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-
-    private void OnTriggerEnter(Collider other)
-    {
-        float triggerRight = OVRInput.Get(OVRInput.RawAxis1D.RIndexTrigger);
-
-
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:36f55af3a4bac1787643930bae588ceaa3ff6f10ff81f2f2fad5ddb64aa51de2
+size 434

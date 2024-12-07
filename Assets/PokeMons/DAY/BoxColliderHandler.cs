@@ -1,36 +1,3 @@
-using UnityEngine;
-
-public class BoxColliderHandler : MonoBehaviour
-{
-    private BoxCollider boxCollider;
-
-    void Start()
-    {
-        // Obtener el componente BoxCollider
-        boxCollider = GetComponent<BoxCollider>();
-        if (boxCollider == null)
-        {
-            Debug.LogError("No se encontró un BoxCollider en este objeto.");
-            return;
-        }
-
-        // Asegurarse de que inicialmente no sea un trigger
-        boxCollider.isTrigger = false;
-    }
-
-    void OnCollisionEnter(Collision collision)
-    {
-        // Verificar si el objeto que colisiona es el jugador
-        if (collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("pokeball"))
-        {
-            Debug.Log("Colisión detectada con el jugador. Activando 'Is Trigger'.");
-
-            // Activar la opción de "Is Trigger"
-            boxCollider.isTrigger = true;
-        }
-        else
-        {
-            boxCollider.isTrigger = false;
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cd14fd054a6dfbdc45cf1bb7aa9d9cd69db490557c4ceb18951e0259b60a22c
+size 1018

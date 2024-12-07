@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #066 Machop
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb29d7c8c3e3a8018a00ff0a56c9d9eafc9f3f7d07462086ac01d34330cdb13
+size 245

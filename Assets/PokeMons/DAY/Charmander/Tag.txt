@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #004 Charmander
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:633ec9b37cef71deff410228fbe2345106760f3faabf955a6f38d13e53353dc6
+size 249

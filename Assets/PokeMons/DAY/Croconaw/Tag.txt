@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #159 Croconaw
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b971d61f26766d08f9b6aa28022e5bd730ab9a403064634ae789e363ea6da2f
+size 247

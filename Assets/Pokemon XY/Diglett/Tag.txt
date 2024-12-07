@@ -1,6 +1,3 @@
-﻿Game: Pokémon X/Y
-Subject: #050 Diglett
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: TheBen, Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e281186a5a5a392f88c0b40908f9dcac20f04166b57a63946e2bd3e3b5fa8e9
+size 257

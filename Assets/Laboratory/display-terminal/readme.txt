@@ -1,3 +1,3 @@
-Thank you for using ImageToStl. Along with this note you will find your converted file(s).
-
-Please visit ImageToStl at https://imagetostl.com for more free file conversion and online viewing tools.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdeec564800608ca39d4f4486dc2d049c87898f7806fc2d727346d7a98bd9e4d
+size 197

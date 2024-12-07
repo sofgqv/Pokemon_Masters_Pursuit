@@ -1,6 +1,3 @@
-Game: Pokémon X/Y
-Subject: #027 Sandshrew
-Copyright: Nintendo, Game Freak, Creatures Inc.
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9061e1f9ba1fc7377a5464de0c72f33670e8613aff60c8016d2d5954983946fd
+size 248
