@@ -2,18 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AnimControll2 : MonoBehaviour
+public class AnimControll : MonoBehaviour
 {
     public float moveSpeed = 2.0f; // Velocidad de movimiento
     public float rotationSpeed = 120f; // Velocidad de giro
     public float idleTime = 2.0f; // Tiempo en estado Idle
     public float walkDistance = 5.0f; // Distancia a caminar
-    public float movementThreshold = 0.01f; // Distancia mínima para detectar movimiento
+    public float movementThreshold = 0.01f; // Distancia mÃ­nima para detectar movimiento
 
     private Animator animator;
     private Vector3 targetDirection;
     private Vector3 startPosition;
-    private Vector3 previousPosition; // Posición previa para calcular movimiento
+    private Vector3 previousPosition; // PosiciÃ³n previa para calcular movimiento
     private float distanceMoved = 0f;
     private float idleTimer = 0f;
     private bool isRotating = false;
@@ -29,16 +29,16 @@ public class AnimControll2 : MonoBehaviour
         // Configurar el estado inicial
         SetIdleState();
 
-        // Inicializar la posición previa
+        // Inicializar la posiciÃ³n previa
         previousPosition = transform.position;
     }
 
     void Update()
     {
-        // Actualizar el parámetro de animación según el movimiento
+        // Actualizar el parÃ¡metro de animaciÃ³n segÃºn el movimiento
         ForceWalkingAnimation();
 
-        // Controlar el comportamiento según el estado actual
+        // Controlar el comportamiento segÃºn el estado actual
         switch (currentState)
         {
             case State.Idle:
@@ -54,7 +54,7 @@ public class AnimControll2 : MonoBehaviour
                 break;
         }
 
-        // Actualizar la posición previa
+        // Actualizar la posiciÃ³n previa
         previousPosition = transform.position;
     }
 
@@ -78,14 +78,14 @@ public class AnimControll2 : MonoBehaviour
     {
         currentState = State.Idle;
         idleTimer = idleTime;
-        animator.SetBool("IsWalking", false); // Asegurar que está en Idle
+        animator.SetBool("IsWalking", false); // Asegurar que estÃ¡ en Idle
     }
 
     private void UpdateIdle()
     {
         idleTimer -= Time.deltaTime;
 
-        // Si termina el tiempo de Idle, iniciar rotación
+        // Si termina el tiempo de Idle, iniciar rotaciÃ³n
         if (idleTimer <= 0f)
         {
             StartRotating();
@@ -97,7 +97,7 @@ public class AnimControll2 : MonoBehaviour
         currentState = State.Rotating;
         isRotating = true;
 
-        // Generar una dirección aleatoria en el plano XZ
+        // Generar una direcciÃ³n aleatoria en el plano XZ
         targetDirection = Random.insideUnitSphere;
         targetDirection.y = 0; // Mantener en el plano
         targetDirection.Normalize();
@@ -107,11 +107,11 @@ public class AnimControll2 : MonoBehaviour
     {
         if (isRotating)
         {
-            // Rotar suavemente hacia la nueva dirección
+            // Rotar suavemente hacia la nueva direcciÃ³n
             Quaternion targetRotation = Quaternion.LookRotation(targetDirection);
             transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, rotationSpeed * Time.deltaTime);
 
-            // Si la rotación está completa, empezar a caminar
+            // Si la rotaciÃ³n estÃ¡ completa, empezar a caminar
             if (Quaternion.Angle(transform.rotation, targetRotation) < 5f)
             {
                 isRotating = false;
@@ -123,7 +123,7 @@ public class AnimControll2 : MonoBehaviour
     private void StartWalking()
     {
         currentState = State.Walking;
-        startPosition = transform.position; // Guardar la posición inicial para calcular la distancia
+        startPosition = transform.position; // Guardar la posiciÃ³n inicial para calcular la distancia
         distanceMoved = 0f;
     }
 
